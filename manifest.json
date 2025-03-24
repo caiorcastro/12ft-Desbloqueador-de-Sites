@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "12ft.io Redirector",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/checked.png",
+      "32": "images/checked.png",
+      "48": "images/checked.png",
+      "128": "images/checked.png"
+    }
+  }
+}
