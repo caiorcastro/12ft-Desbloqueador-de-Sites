@@ -16,9 +16,6 @@
 
 ⚠️ Requer permissão para acessar abas ativas e executar scripts
 
-## Capturas de Tela
-![Exemplo de uso](images/checked.png)
-
 ## Melhores Práticas
 - Desenvolvido com Manifest V3 para segurança
 - Permissões mínimas necessárias
