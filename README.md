@@ -8,7 +8,7 @@
 - Ícone indicativo de status no navegador
 
 ## Como Instalar
-1. Baixe os arquivos do repositório (clique em "Code" > Dowload ZIP no canto superior direito.
+1. Baixe os arquivos do repositório (clique em "Code" e depois Download ZIP) no canto superior direito.
 2. Acesse `chrome://extensions` no Chrome
 3. Ative o "Modo Desenvolvedor" (canto superior direito)
 4. Clique em "Carregar sem compactação"
